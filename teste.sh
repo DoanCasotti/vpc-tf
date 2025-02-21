@@ -1,1 +1,0 @@
-curl -X POST https://awqgmwq7i0.execute-api.us-east-1.amazonaws.com/dev/webhook -H "Content-Type: application/json" -d '{"evento": "novo_usuario", "email": "teste@example.com"}'
